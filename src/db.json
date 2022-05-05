@@ -1,0 +1,12 @@
+[{
+	"name": "Document1",
+	"version": "2.0.1",
+  "doc_json": {"swagger":"2.2","value":"Document1"},
+	"id": 1
+},
+{
+	"name": "Document2",
+	"version": "2.0.1",
+  "doc_json": {"swagger":"2.2","value":"Document2"},
+	"id": 2
+}]
